@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604864526130",
+    "firebase_url": "https://ongc-cab.firebaseio.com",
+    "project_id": "ongc-cab",
+    "storage_bucket": "ongc-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604864526130:android:b285988d5947d266",
+        "android_client_info": {
+          "package_name": "travel.training.ongc.ongccabuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604864526130-inodg6s898csev4n3ntq1mg36har6qaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.training.ongc.ongccabuser",
+            "certificate_hash": "54f397785736ea1409240d3eaba5e3488d2f434f"
+          }
+        },
+        {
+          "client_id": "604864526130-sluaksmgmau2dinimagd6u6885rf40o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhkPqQEX8uc-V-WYV9hn5mIVfrKLox7L0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604864526130-sluaksmgmau2dinimagd6u6885rf40o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
